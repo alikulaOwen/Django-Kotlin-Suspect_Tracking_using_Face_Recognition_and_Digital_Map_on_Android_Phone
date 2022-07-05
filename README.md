@@ -12,9 +12,6 @@ API Root: http://164.92.210.227/
 
 This is my final year project, to see a working demo kindly reach out via otienoelvis8@gmail.com
 
-## Live visitors counter
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/otienoelvis/Suspect_Tracking_using_Face_Recognition_and_Digital_Map_on_Android_Phone)
-
 
 ## Demo
 
